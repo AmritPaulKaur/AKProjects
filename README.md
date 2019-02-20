@@ -3,6 +3,19 @@ New projects uploaded for help..!!
 Welcome to the new project that is a "ScamPaul Horizon" game.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 const GameState = Object.freeze({
     HOLA:   Symbol("hola"),
     START:  Symbol("start"),
